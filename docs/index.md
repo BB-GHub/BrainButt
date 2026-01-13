@@ -13,9 +13,9 @@ Silly group of AI Characters who love to think, joke, and have fun! Each BrainBu
 
 ## Characters
 
-Chikinini Pinirito — short description
-Mingming Bandarito — short description
-Okra Patanini — short description
+- Chikinini Pinirito — short description
+- Mingming Bandarito — short description
+- Okra Patanini — short description
 
 ## Contact
 

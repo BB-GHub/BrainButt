@@ -2,6 +2,8 @@
 
 # BrainButt
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1b737c04-2368-4941-9306-ebe6a797b000" />
+
 
 ## About
 

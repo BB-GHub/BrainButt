@@ -1,7 +1,4 @@
----
-title: BrainButt
-layout: default
----
+
 
 # BrainButt
 

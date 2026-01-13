@@ -11,7 +11,7 @@ A tiny experimental project. Put a short one-line summary of what this repo does
 
 ## About
 
-Briefly describe the project purpose, goals, and a one-paragraph overview of what visitors will find here.
+Silly group of AI Characters who love to think, joke, and have fun! Each BrainButt character has a big imagination, funny personality, and a smart brain that helps kids learn while laughing.
 
 ## Features
 

@@ -5,9 +5,6 @@ layout: default
 
 # BrainButt
 
-A tiny experimental project. Put a short one-line summary of what this repo does here.
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## About
 
